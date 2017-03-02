@@ -15,13 +15,14 @@ nav
 {
 	color: brown;
 	background-color: rgb(70,130,180);
-	display: inline;
+	
 }
 
 
 
 li {
 	color: black;
-    	margin: 0px 10px;
+    	margin: 0px 10px;'
+	display: inline;
 }
 
