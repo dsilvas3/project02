@@ -12,6 +12,7 @@ nav
 {
 	color: black;
 	background-color: #428ff4;
+	border-style: solid;
 }
 
 
@@ -27,7 +28,7 @@ ul {
 #footer{
 	
 	height:70px;
-	text-align:right;
+	text-align:center;
 }
 
 h1{
