@@ -1,7 +1,10 @@
 
+
+ 
+
 body {
     font-family: cursive;
-    background-color: rgb(70,130,180);
+    background-color: #87CEEB;
     color:black; 
 }
 
@@ -14,5 +17,10 @@ p{
 nav
 {
 	color: brown;
+	background-color: rgb(70,130,180);
 
 }
+
+
+
+
