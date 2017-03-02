@@ -5,7 +5,7 @@ body {
 
 p{
     color: black;
-    background-color: light-blue;
+   
 }
 
 nav
@@ -20,15 +20,14 @@ ul {
 	color: black;
     	margin: 0px 10px;
 	display: inline;
-	background-color: rgb(70,130,180);
+	
 }
 
 
 #footer{
-	background-color: light-blue;
+	
 	height:70px;
 	text-align:right;
-
 }
 
 h1{
