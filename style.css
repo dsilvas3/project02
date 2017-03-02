@@ -13,16 +13,17 @@ p{
 
 nav
 {
-	color: brown;
-	background-color: rgb(70,130,180);
+	color: black;
+	
 	
 }
 
 
 
-li {
+ul {
 	color: black;
     	margin: 0px 10px;'
 	display: inline;
+	background-color: rgb(70,130,180);
 }
 
