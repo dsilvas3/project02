@@ -27,3 +27,15 @@ ul {
 	background-color: rgb(70,130,180);
 }
 
+
+#footer{
+	background-color: light-blue;
+	height:70px;
+	text-align:right;
+
+}
+
+h1{
+	font-family: cursive;
+}
+
