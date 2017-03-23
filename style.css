@@ -5,17 +5,20 @@ body {
 
 p{
     color: black;
-	font-family: "Arial", cursive; 
+	font-family: "Arial"; 
    
 }
 
-
+nav{
+background-color: #e8c855;
+}
 
 nav ul li {
          float:left;
          margin: 0 15px;
 	color: black;
 	font-family: cursive;
+	
 	
 }
  
