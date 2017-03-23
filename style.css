@@ -19,13 +19,8 @@ nav ul li {
          float:left;
          margin: 0 15px;
 	color: black;
-	
-	
-	
 }
  
-
-
 
 ul {
 	color: black;
@@ -57,4 +52,8 @@ iframe {
     margin: auto;
     width: 40%;
     height: 60%;
+}
+
+h3{
+background-color: #FFDAB9;
 }
