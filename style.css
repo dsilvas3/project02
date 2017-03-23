@@ -14,7 +14,10 @@ nav ul li {
          float:left;
           margin: 0 15px;
 	 color: black;
-	 background-color: #428ff4;
+	background-color: #428ff4;}
+ 
+ nav ul li: hover {
+	 background-color: #111;
 	
 	
 }
