@@ -12,16 +12,12 @@ p{
 
 nav ul li {
          float:left;
-          margin: 0 15px;
-	 color: black;
+         margin: 0 15px;
+	color: black;
 	font-family: cursive;
-	background-color: #428ff4;}
- 
- nav ul li: hover {
-	 background-color: #111;
-	
 	
 }
+ 
 
 
 
