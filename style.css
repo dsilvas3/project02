@@ -46,10 +46,12 @@ nav{
 }
 
 nav ul li {
-         float:left;
+         float:middle;
          margin: 0 15px;
 	 color: black;
 	 font-family: 'Indie Flower', cursive;
+         list-style-type: none;
+	  padding: 0;
 }
  
 
