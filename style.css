@@ -30,19 +30,18 @@ time, mark, audio, video {
 body {
     font-family: 'Indie Flower', cursive;
     background-color: #FFE4B5;
-    color:black; }
+    color:black; 
+     }
 
-p{
+p {
     color: black;
     font-family: 'Indie Flower', cursive;
-    position: absolute;
-    
-   
-}
+    text-align:center;
+  }
 
-nav{
+nav {
 	background-color: #FFDAB9;
-}
+    }
 
 nav ul li {
          float:middle;
@@ -60,7 +59,6 @@ ul {
 	color: black;
     	margin: 0px 10px;
 	display: inline;
-	
 }
 
 
