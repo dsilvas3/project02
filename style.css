@@ -34,20 +34,22 @@ body {
 
 p{
     color: black;
-	font-family: "Arial"; 
+    font-family: 'Indie Flower', cursive;
+    
    
 }
 
 nav{
-background-color: #FFDAB9;
-font-family: cursive;
-font-size: 30px;
+	background-color: #FFDAB9;
+	font-family: 'Indie Flower', cursive;
+	font-size: 30px;
 }
 
 nav ul li {
          float:left;
          margin: 0 15px;
-	color: black;
+	 color: black;
+	 font-family: 'Indie Flower', cursive;
 }
  
 
@@ -63,6 +65,7 @@ ul {
 	
 	height:70px;
 	text-align:center;
+	font-family: 'Indie Flower', cursive;
 }
 
 h1{
