@@ -35,6 +35,7 @@ body {
 p{
     color: black;
     font-family: 'Indie Flower', cursive;
+    position: absolute;
     
    
 }
