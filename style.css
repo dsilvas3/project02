@@ -41,8 +41,6 @@ p{
 
 nav{
 	background-color: #FFDAB9;
-	font-family: 'Indie Flower', cursive;
-	font-size: 30px;
 }
 
 nav ul li {
@@ -51,7 +49,8 @@ nav ul li {
 	 color: black;
 	 font-family: 'Indie Flower', cursive;
          list-style-type: none;
-	  padding: 0;
+	 padding: 0;
+	 font-size: 40px;
 }
  
 
